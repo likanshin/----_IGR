@@ -1,0 +1,19 @@
+{
+  "scans": {
+    "50002": {
+      "chicken_wings": [
+        "chicken_wings.003807"
+      ]
+    },
+    "50007": {
+      "punching": [
+        "punching.001904"
+      ]
+    },
+    "50009": {
+      "shake_hips": [
+        "shake_hips.001993"
+      ]
+    }
+  }
+}
